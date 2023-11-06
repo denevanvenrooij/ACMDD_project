@@ -1,0 +1,1 @@
+This is a collection of all the virtual screening runs of classification model that was used for predicitons. Values like cutoff, trees grown and split were altered to produce a list of ligands for the purpose of docking.
