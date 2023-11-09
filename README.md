@@ -1,7 +1,7 @@
 # ACMDD_project
 Our ACMDD project consisted of an investigation into finding a novel antagonist for the A3 receptor, using a QSAR machine learning model for classification, virtual screening, and docking.
 
-We selected the A3 receptor because 
+At first we chose the A2a receptor e selected the A3 receptor for a few reasons. The A3 receptors are found in the lungs, liver, heart, kidneys, and other tissues, and have been presented as a potential target for neurodegenerative diseases, asthma, cardiac ischemia, and various cancers. Several years ago, a commentary by Beaven suggested, on the basis of studies on a rat basophilic cell line, that a then hypothetical A3 receptor antagonist could be a useful anti-asthmatic drug. Yet, only a handful of antagonists for A3 have been published. Therefore it  is important to  study the receptor and try to find possible new antagonists. 
 
 First, we fetched compound data from ChEMBL selected for Ki values, afterwards, we also fetched a list of compounds based on ChEMBL values using Papyrus. The datasets contained 3944 and 3243 unique compounds, respectively. These datasets were not filtered. The pChEMBL dataset was selected because it comprised more relevant values for bioactivity. The pKi dataset was also used for model evaluation, though.
 
