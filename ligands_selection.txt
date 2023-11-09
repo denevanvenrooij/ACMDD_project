@@ -2,10 +2,6 @@ Cn1cc2c(nc(NC(=O)Nc3ccc(Cl)cc3)n3nc(-c4ccco4)nc23)n1
 CCn1cc2c(nc(NC(=O)Nc3ccccc3)n3nc(-c4ccco4)nc23)n1
 Cn1cc2c(nc(NC(=O)Cc3ccc(F)cc3)n3nc(-c4ccco4)nc23)n1
 Cn1cc2c(nc(NC(=O)Cc3ccsc3)n3nc(-c4ccco4)nc23)n1
-Cn1cc2c(nc(NC(=O)Nc3cccc[n+]3C)n3nc(-c4ccco4)nc23)n1
-CCCn1cc2c(nc(NC(=O)Nc3ccccc3)n3nc(-c4ccco4)nc23)n1
-CCn1cc2c(nc(NC(=O)Nc3ccc(C)cc3)n3nc(-c4ccco4)nc23)n1
-Cn1cc2c(nc(NC(=O)Nc3ccc(Cl)cc3)n3nc(-c4ccco4)nc23)n1
-Cn1cc2c(nc(NC(=O)Cc3ccc(Cl)cc3)n3nc(-c4ccco4)nc23)n1
-Cn1cc2c(nc(NC(=O)Cc3cccc(Cl)c3)n3nc(-c4ccco4)nc23)n1
-CCn1cc2c(nc(NC(=O)Nc3ccccc3Cl)n3nc(-c4ccco4)nc23)n1
+OCC1OC(C(O)C1O)n1cnc2c(NCCc3ccccc3)ncnc12
+OC[C@H]1O[C@H]([C@H](O)[C@@H]1O)n1cnc2c(NCCc3ccccc3)ncnc12
+CONc1nc(C#Cc2ccccn2)nc2c1ncn2[C@@H]1O[C@H](CO)[C@@H](O)[C@H]1O
